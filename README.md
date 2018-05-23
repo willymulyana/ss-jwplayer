@@ -53,7 +53,7 @@ import RNSsJwplayer from 'ss-jwplayer';
 RNSsJwplayer.playVideo({
   streamUrl:'https://www.rmp-streaming.com/media/bbb-360p.mp4', // the video url
   time:20000, // progress video to certain time [in millis]
-  vastUrl:'', // for showing ads in video (required JWPlayer premium license
+  vastUrl:'', // for showing ads in video (required JWPlayer premium license)
   // vastUrl:'https://s3-ap-southeast-1.amazonaws.com/ss-static-api/v1/jwplayerads/vmap-prerolls.xml', // sample
   onError:function (e) { ... },   // when error happen when playing video
   onPlay:function (e) { ... },
