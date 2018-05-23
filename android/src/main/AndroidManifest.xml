@@ -1,0 +1,19 @@
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.reactlibrary">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application >
+
+        <meta-data
+            android:name="JW_LICENSE_KEY"
+            android:value="YOUR_LICENSE_KEY" />
+
+        <activity android:name=".JWPlayerActivity"
+          android:configChanges="keyboard|keyboardHidden|orientation|screenSize"></activity>
+
+    </application>
+
+</manifest>
+  

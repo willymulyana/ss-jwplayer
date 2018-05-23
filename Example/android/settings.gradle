@@ -1,0 +1,6 @@
+rootProject.name = 'jwplayertest'
+
+include ':app'
+
+include ':ss-jwplayer'
+project(':ss-jwplayer').projectDir = new File(rootProject.projectDir, 	'../node_modules/ss-jwplayer/android')

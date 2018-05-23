@@ -1,0 +1,33 @@
+<resources>
+    <color name="background">#000000</color>
+    <color name="colorPrimary">#C50D00</color>
+    <color name="colorPrimaryDark">#710A01</color>
+    <color name="colorAccent">#df0025</color>
+    
+    <color name="primary_dark">#000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000</color>
+    <color name="gray">#c0c0c0</color>
+    <color name="grey">#c0c0c0</color>
+    <color name="gold">#efaa00</color>
+
+    <color name="toolbarLightSoft">#CA5758</color>
+    <color name="toolbarDarkSoft">#913830</color>
+    <color name="toolbarLight">#d60c00</color>
+    <color name="toolbarDark">#610800</color>
+
+    <color name="gray_50">#E8EAF6</color>
+    <color name="gray_100">#C5CAE9</color>
+
+    <color name="colorMenu">#2e2e2e</color>
+    <color name="colorMenuSeparator">#bfbfbf</color>
+
+    <color name="beinColor000">#5e268f</color>
+    <color name="beinColor025">#59268f</color>
+    <color name="beinColor100">#4b207b</color>
+
+    <color name="color_premium">#656565</color>
+    <color name="color_hd">#4606e0</color>
+    <color name="color_super">#f50601</color>
+</resources>
