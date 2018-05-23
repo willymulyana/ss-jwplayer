@@ -41,7 +41,8 @@ _JWPlayer for RN Android_
     ```
       $ yarn
   	```
-4. Run the Example app
+4. Do step 4 of Android manual installation (put JWPlayer license)
+5. Run the Example app
     ```
       $ react-native run-android
   	```
